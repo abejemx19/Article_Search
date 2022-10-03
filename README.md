@@ -22,11 +22,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface through styling and coloring
-  - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
-(download projct as a zip and run)
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+ 
 
 ## Video Walkthrough
 
