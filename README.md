@@ -1,7 +1,7 @@
 # Article_Search
 Final Article Search
 
-# FlixterApplication
+# Final Article Search
 Functions as a flixter scroller 
 # Android Project 3 - *Article-Search*
 
